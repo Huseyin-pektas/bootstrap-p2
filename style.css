@@ -1,0 +1,33 @@
+body{
+    padding: 50px;
+    font-family: sans-serif;
+}
+.sideresim{
+    height: 600px;
+}
+.hakkimizda{
+    background-color: rgb(235, 233, 230);
+}
+.ayraç{
+    border-top: 3px solid #050505;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #050505;
+    position: relative;
+    bottom: 52px;
+    font-size: 40px;
+    border-radius: 10px solid white;
+    background-color: white;
+}
+.igri{
+    color: #050505;
+    position: relative;
+    bottom: 52px;
+    font-size: 40px;
+    border-radius: 10px solid rgb(235, 233, 230);
+    background-color: rgb(235, 233, 230);
+}
+
+
